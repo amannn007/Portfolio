@@ -170,17 +170,17 @@ span{
     margin:2rem 0 3rem;
 }
 
-.services h2{
+.certification h2{
     margin-bottom: 5rem;
 }
-.services-container{
+.certification-container{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     gap: 2rem;
 }
-.services-container .services-box{
+.certification-container .certification-box{
     flex: 1 1 30rem;
     background: var(--second-bg-color);
     padding: 3rem 2rem 4rem;
@@ -189,19 +189,19 @@ span{
     border: .2rem solid var(--bg-color);
     transition: .5s ease;
 }
-.services-container .services-box:hover{
+.certification-container .certification-box:hover{
     border-color: var(--main-color);
     transform: scale(1.02);
 }
-.services-box i {
+.certification-box i {
     font-size: 7rem;
     color: var(--main-color);
 
 }
-.services-box h3 {
+.certification-box h3 {
     font-size: 2.6rem;
 }
-.services-box p {
+.certification-box p {
     font-size: 1.3rem;
     margin: 1rem 0 3rem;
 
@@ -355,7 +355,7 @@ span{
      .footer {
         padding: 2rem  3%;
      }
-     .services{
+     .certification{
         padding-bottom: 7rem;
      }
      .portfolio {
@@ -412,7 +412,7 @@ span{
         width: 70vw;
         margin-top: 4rem;
     }
-    .services h2{
+    .certification h2{
         margin-bottom: 3rem;
     }
     .portfolio h2{
