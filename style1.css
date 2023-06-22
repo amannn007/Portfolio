@@ -23,6 +23,10 @@
     height: 250px;
 /*     background: seagreen; */
 }
+.home-image img{
+    width:150px;
+    height:150px;
+}
 .home-content{
     max-width: 600px;
     color: #fff;
