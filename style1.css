@@ -15,7 +15,7 @@
 .home-image{
     width: 250px;
     height: 250px;
-/*     background: seagreen; */
+    background: seagreen;
 }
 .home-image img{
     width:300px;
@@ -39,5 +39,5 @@
 }
 .home-content p{
     font-size: 14px;
-/*     margin-top: 15px; */
+    margin-top: 15px;
 }
