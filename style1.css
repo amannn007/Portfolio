@@ -38,6 +38,7 @@
     text-align:right;
 }
 .home-content p{
+    justify-content:space-between;
     font-size: 14px;
     margin-top: 15px;
 }
