@@ -4,12 +4,6 @@
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
 }
-.logo{
-    font-size: 18px;
-    color: #031540;
-    text-decoration: none;
-    font-weight: 700;
-}
 .home{
     height: 100vh;
     background: linear-gradient(-90deg,#031540 65%,#fff 35%);
