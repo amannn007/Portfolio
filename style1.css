@@ -29,14 +29,14 @@
     text-align: right;
 }
 .home-content h1{
-    font-size: 55px;
+    font-size: 45px;
     line-height: 1.2;
 }
 .home-content h3{
-    font-size: 40px;
+    font-size: 35px;
     -webkit-text-stroke: .5px #fff;
 }
 .home-content ul{
-    font-size: 16px;
-    margin-top: 20px;
+    font-size: 10px;
+    margin-top: 15px;
 }
