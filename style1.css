@@ -26,7 +26,7 @@
 .home-content{
     max-width: 600px;
     color: #fff;
-    text-align: right;
+    text-align: none;
 }
 .home-content h1{
     font-size: 45px;
