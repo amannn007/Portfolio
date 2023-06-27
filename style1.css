@@ -18,25 +18,7 @@
     align-items: center;
     z-index: 100;
 }
-.logo{
-    font-size: 18px;
-    color: #031540;
-    text-decoration: none;
-    font-weight: 700;
-}
-.navbar a {
-    font-size: 18px;
-    color: #fff;
-    text-decoration: none;
-    font-weight: 500;
-    margin-left: 35px;
-    transition: .3s;
-}
-.navbar a:hover,
-.navbar a.active
-{
-    color: #00abf0;
-}
+
 .home{
     height: 100vh;
     background: linear-gradient(-90deg,#031540 65%,#fff 35%);
