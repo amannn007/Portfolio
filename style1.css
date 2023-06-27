@@ -35,6 +35,7 @@
 .home-image img{
     position:absolute;
     max-width:180px;
+    align-items:center;
 }
 .home-content{
     max-width: 600px;
