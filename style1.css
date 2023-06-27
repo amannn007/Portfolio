@@ -36,6 +36,7 @@
     position:absolute;
     max-width:380px;
     align-items:center;
+    justify-content:space-between;
 }
 .home-content{
     max-width: 600px;
