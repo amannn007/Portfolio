@@ -40,7 +40,7 @@
 .home-content{
     max-width: 600px;
     color: #fff;
-/*     text-align: right; */
+    text-align: left;
 }
 .home-content h1{
     font-size: 55px;
