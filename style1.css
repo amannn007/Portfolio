@@ -4,6 +4,18 @@
     box-sizing: border-box;
     font-family: 'Poppins',sans-serif;
 }
+@keyframes floatImage{
+    0%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(-2.4rem);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+
 .home{
     height: 100vh;
     background: linear-gradient(-90deg,#031540 65%,#fff 35%);
