@@ -176,11 +176,11 @@ span{
   }
   .basic-edu{
     display: flex;
-    gap: 32px;
-    margin-bottom: 32px;
+    gap: 22px;
+    margin-bottom: 22px;
   }
   .edu-box{
-    padding: 14px;
+    padding: 10px;
     text-align: center;
     border: 1px solid var(--text-color);
     border-radius: 15px;
