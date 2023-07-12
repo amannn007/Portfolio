@@ -170,6 +170,27 @@ span{
     font-size: 1.6rem;
     margin:2rem 0 3rem;
 }
+.about-left{
+    border-radius: 20px;
+    overflow: hidden;  
+  }
+  .basic-edu{
+    display: flex;
+    gap: 32px;
+    margin-bottom: 32px;
+  }
+  .edu-box{
+    padding: 14px;
+    text-align: center;
+    border: 1px solid var(--text-color);
+    border-radius: 20px;
+    width: 40%;
+  }
+  .edu-box img{
+    margin: auto;
+    width: 30%;
+    height: 30%;
+  }
 
 .certification h2{
     margin-bottom: 5rem;
