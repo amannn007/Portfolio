@@ -249,6 +249,10 @@ span{
     margin: 1rem 0 3rem;
 
 }
+.certification-box img{
+    height: 100%;
+    width: 100%;
+}
 .portfolio{
     background: var(--second-bg-color);
 }
