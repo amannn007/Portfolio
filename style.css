@@ -131,7 +131,7 @@ span{
 }
 .btn{
     display: inline-block;
-    padding: 2rem 2.8rem;
+    padding: 1rem 2.8rem;
     margin: 6rem;
     background: var(--main-color);
     border-radius: 4rem;
