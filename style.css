@@ -183,13 +183,13 @@ span{
     padding: 14px;
     text-align: center;
     border: 1px solid var(--text-color);
-    border-radius: 20px;
-    width: 40%;
+    border-radius: 15px;
+    width: 30%;
   }
   .edu-box img{
     margin: auto;
-    width: 30%;
-    height: 30%;
+    width: 20%;
+    height: 20%;
   }
 
 .certification h2{
