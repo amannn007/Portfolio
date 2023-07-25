@@ -142,10 +142,10 @@ span{
     font-weight: 600;
     transition: .5s ease;
 }
-.btn2{
+.btn2 {
     display: inline-block;
     padding: 1rem 2.8rem;
-    margin:7rem;
+    margin-left:7rem;
     background: var(--main-color);
     border-radius: 4rem;
     box-shadow: 0 0 1rem var(--main-color);
@@ -154,7 +154,7 @@ span{
     letter-spacing: .1rem;
     font-weight: 600;
     transition: .5s ease;
-    margin-left:15px;
+  
 }
 .btn1 {
     text-align: center;
